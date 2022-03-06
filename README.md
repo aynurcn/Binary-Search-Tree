@@ -6,4 +6,4 @@ Binary-Search-Tree Project
 ## Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 ---
 Root=7 olarak seçilmiştir.
-![screenshot1](https://github.com/aynurcn/GithubHomework/blob/main/Screenshot_5.png?raw=true)
+![screenshot1](https://github.com/aynurcn/GithubHomework/blob/main/screens/Screenshot_5.png?raw=true)
